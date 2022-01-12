@@ -5,6 +5,15 @@ This is a sample repo Hello World!
 the hastag makes it a H1 header 
 
 
+#Creating a project
+
+mkdir name
+cd name 
+git init
+
+#adding and updating files
+touch new_file_name.txt (such as a README file)
+
 - make sure you are in the correct folder for github 
 - git status (if anything is red then (git add fileName.extension) )
 - git add fileName.extension
